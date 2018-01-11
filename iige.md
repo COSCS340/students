@@ -1,0 +1,1 @@
+I am Isaac Ige and I am a junior majoring in computer science. I'm also minoring in Asian Studies with a focus on Japan. I have interests in machine learning, data science, and game development. I also have a little bit of experience working with tensorflow.
