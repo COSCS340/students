@@ -1,0 +1,1 @@
+My name is Michael Goin and I'm a junior pursuing a degree in Computer Science with a minor in Mathematics. I work as an undergraduate research assistant for Dr. Plank doing research to detect anomalies using Neuromorphic Computing. I'm hoping to better understand good methods of architecting large software projects.
