@@ -1,3 +1,8 @@
+# Project Ideas
+
+Please submit project ideas in .md files here. Besides a title and a sentence describing the general ide, please include, ir relevant, technology used, and list current team. 
+
+
 # Students and Teams
 
 Introduce yourself via a NETID.md file, and submit via pull request. Please provide at least 
