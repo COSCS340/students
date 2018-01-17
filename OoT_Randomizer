@@ -1,0 +1,21 @@
+Title: Zelda OoT Randomiser
+
+Need two more group members
+
+Basic Idea: We plan to make the logic needed to create an item randomiser for Zelda: Ocarina of Time.
+
+The randomiser would mix up the item locations in the game, so that each time you played, it would be a different 
+experience. For example, instead of getting a sword out of the first chest like normal, you might get a hookshot
+instead. From there, you can start some dungeons that require the hookshot, and maybe you'll find items that lead 
+you to a different dungeon in there.
+
+We only plan on making the logic behind the randomiser, and not actually edit the game, however, if we can figure
+out how to do that, we will try to implement it. The logic would consist of the user giving the program a starting 
+seed (or not, in which case the seed will be randomly generated), and the program will output a text file detailing
+where all of the items would be placed. If we are able to edit the game, the user will provide a seed (optional) and
+a ROM of the game to be edited. The program will output the same text file as before, and the edited version of the
+ROM.
+
+Technology Used: We plan to write the program in C++.
+
+Members: Chris Muncey, Isaac Stone, +2 more.
