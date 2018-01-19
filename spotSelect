@@ -1,0 +1,22 @@
+Select-A-Spot
+01.19.2017
+─
+Seth Kear
+Tristan Spakes
+Brian Friend
+Jonathan Anderson
+
+Overview
+We will be creating a software to manage and represent the number of available parking spot in a parking garage.
+It is going to most likely be on a webpage connected to a database and can be easily thrown to a future software.
+
+Goals
+Create Database for parking garage 
+Make it easier for people to know if there are open spots in a garage so they do not waste their time
+Make a User friendly interface that allows someone to easily make their decision to use a particular garage
+
+Specifications
+Using Visual Studio and other tools to make a webpage with an ASP.NET format along with multiple
+languages like C#/Javascript/NodeJS and even Bootstrap for page sizing or using PHP with mysql instead (depending on team skills).
+These tools will be used in making a homepage that allows the user to easily check the availability 
+of a garage and will be user friendly to even someone with limited skills.
