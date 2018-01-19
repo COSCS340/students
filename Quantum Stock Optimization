@@ -9,6 +9,8 @@ https://github.com/ORNL-QCI/xacc
 The bulk of the math has been worked out already with a primitive CLI written in C that launches the kernel. We will be building around this. The bulk of the project will be based around obtaining the data and then processing it so it can then be put into a QPU kernel. Depending on time writing a Front End GUI might also be a target.
 
 The language will most likely be in C/C++ or Python. Some other langugaes might be used to wrap the functinality in a GUI if needed.
-There are currently two members.
+There are currently all four members.
 Joseph Huber
 Thomas Huber
+Michael Goin
+Trevor Dixon
