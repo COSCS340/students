@@ -1,0 +1,16 @@
+This project will center around using Quantum Computing to do stock market optimization. For example, if you have a list of 10,000 stocks and 1,000 dollars, what is the best way to distribute your 1,000 dollars among the stocks to gain the most in the stock market. It turns out that this problem can be broken down into a quadtratic unconstrained binary optimization problem which can theoretically be run quickly on a quantum computer. 
+
+This project is from Travis Humble at ORNL's quantum computing branch
+http://web.ornl.gov/~humblets/
+
+This project will be build upon the XACC framework to pass work to a Quantum Computer over a network. This involves writing kernels similar to CUDA, if you've ever used it.
+https://github.com/ORNL-QCI/xacc
+
+The bulk of the math has been worked out already with a primitive CLI written in C that launches the kernel. We will be building around this. The bulk of the project will be based around obtaining the data and then processing it so it can then be put into a QPU kernel. Depending on time writing a Front End GUI might also be a target.
+
+The language will most likely be in C/C++ or Python. Some other langugaes might be used to wrap the functinality in a GUI if needed.
+There are currently all four members.
+Joseph Huber
+Thomas Huber
+Michael Goin
+Trevor Dixon
