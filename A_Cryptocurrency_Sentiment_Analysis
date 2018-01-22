@@ -1,4 +1,9 @@
-Cryptocurrency prices are presumably dictated on some level by the online sentiment associated with any given cryptocurrency. The goal of this project is to create a system that can gauge sentiment based on articles collected from the internet such as tweets or news headlines. To do this, the online articles must be scraped from various websites and stored, and then labeled as having positive or negative sentiment. We then could count the number of positive and negative sentiment articles within a certain time period at which point we should be able to examine the relationship between sentiment over time for a specific cryptocurrency and its effect on the prices of that cryptocurrency in the same time period. 
+Cryptocurrency prices are presumably dictated on some level by the online sentiment associated with any given cryptocurrency. 
+The goal of this project is to create a system that can gauge sentiment based on articles collected from the internet
+such as tweets or news headlines. To do this, the online articles must be scraped from various websites and stored, 
+and then labeled as having positive or negative sentiment. We then could count the number of positive and negative sentiment articles
+within a certain time period at which point we should be able to examine the relationship between sentiment
+over time for a specific cryptocurrency andits effect on the prices of that cryptocurrency in the same time period. 
 
 Current Team:
   - Isaac Way
