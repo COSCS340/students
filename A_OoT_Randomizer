@@ -1,7 +1,5 @@
 Title: Zelda OoT Randomiser
 
-Need two more group members
-
 Basic Idea: We plan to make the logic needed to create an item randomiser for Zelda: Ocarina of Time.
 
 The randomiser would mix up the item locations in the game, so that each time you played, it would be a different 
@@ -18,4 +16,4 @@ ROM.
 
 Technology Used: We plan to write the program in C++.
 
-Members: Chris Muncey, Isaac Stone, +2 more.
+Members: Chris Muncey, Isaac Stone, Demi Obenour, Cole Flemmons.
