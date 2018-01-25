@@ -1,0 +1,13 @@
+The goal for this project is to create a town generator for the game Dungeons and Dragons.
+The primary use for this tool is to generate citizens of the town, including basic information like their age, height, and when they moved into the town.
+There will also be a backstory behind these characters, and we hope to set the tool up to relate some characters to each other. For example, if there is an event like a flood in the town, then several characters will have a backstory related to this event.
+
+A secondary goal for this tool is to procedurally generate a map of the town. This would include buildings and roads, as well as assigning homes to the characters created.
+
+Our group members are as follows:
+	Dakota Sanders
+	Ben Johnson
+	Matt Matto
+	Bert Bashford
+	
+We are unsure as to what languages/software tools we will use for this project.
