@@ -1,0 +1,1 @@
+My name is Emily Plank, and I am working on my CS major. I admittedly don’t have a lot of experience, just having completed 102, 140, 130, and 302. I’d like to in general learn more and become more used to both working on group projects and perhaps getting more experience working with different languages than C++.
