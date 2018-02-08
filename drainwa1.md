@@ -5,3 +5,5 @@ software development work for CBL in Chattanooga. I am also in a group on campus
 
 I am interested in artificial intelligence, software engineering, and blockchain technology. I'm excited to learn some cool
 stuff this semester!
+
+My external ip address for assignment 1: http://35.231.108.127/

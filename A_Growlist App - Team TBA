@@ -1,0 +1,16 @@
+
+Intro: We will be creating an Android app to keep track of plants. Users will be able to add and delete plants and browse their collection. Later iterations of the app will add the ability to add pictures and other important information to plant profiles and sharing of lists with others for purpsoses of trading, selling, or just showing off. 
+
+Customer Value: This app will be great for people who have large collections of plants and need to keep track of their collection. Collectors of Orchids, Succulents, Cacti, and Carnivorous Plants will find value in being able to track their collection, keep inventory, and share what they have to trade and sell. The app could also quickly be repurposed for collections of many things, including coins, stamps, trading cards, etc. 
+
+Technology: We will likely be using Android Studio (Java) to make the app, but may also explore iOS development. 
+
+Team: 
+  Steven Engel - Familiarity with Android Studio
+  Alex Wilkinson - Some Android experience
+  Casey Lemon - Some iOS experience
+  Brandon Yen - Some Java experience
+	
+Project Management: This project will be layed out such that an early prototype can be built quickly and other features can be added later in the semester. There are no constraints of concerns to be aware of currently. All resources should be available for free (Android Studio, etc).
+
+Reflection: To be filled in later
