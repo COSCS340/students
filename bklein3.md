@@ -25,3 +25,5 @@ I've used Git and Github extensively over the years and have really enjoyed git 
 I enjoy working with others in a development setting, and have 3-4 years of team work experience using Github/Gitlab as a collaboration method, along with various workflows like Git or Github flow.
 
 I use Linux on all my personal machines and have never bought a Windows license or Apple hardware. If you want to install linux on your machine, I highly recommend it and will be willing to help!
+
+35.227.52.200
