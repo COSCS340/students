@@ -34,3 +34,6 @@ Hello, my name is Dakota Sanders. I'm a senior in Comp. Sci and I'm excited to w
                        \  \                  /  /                     
                         \  \________________/  /                      
                          \____________________/                       
+
+Gcloud IP Address:
+http://35.196.52.141
