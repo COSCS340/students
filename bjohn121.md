@@ -15,4 +15,4 @@ Segmentation fault (core dumped)
 Wait. Now what happened?
 
 ## Website
-http://35.227.88.124/
+http://35.185.61.100/
