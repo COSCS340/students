@@ -1,7 +1,7 @@
 # Ben Klein
 ### aka `robobenklein`
 
-Site: [35.227.52.200](http://35.227.52.200/)
+Site: [35.196.184.168](http://35.196.184.168/)
 
 I've been programming since I was ~12, and have been using Linux since I was 10.
 
@@ -26,4 +26,4 @@ I enjoy working with others in a development setting, and have 3-4 years of team
 
 I use Linux on all my personal machines and have never bought a Windows license or Apple hardware. If you want to install linux on your machine, I highly recommend it and will be willing to help!
 
-35.227.52.200
+[35.196.184.168](http://35.196.184.168/)
