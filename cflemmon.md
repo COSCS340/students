@@ -1,1 +1,3 @@
 My name is Cole Flemmons, and I am a senior in Computer Science. In this class, I would like to learn more about the software design process for larger projects. I am interested in video game development, so the group work in this class will hopefully be useful in the future.
+
+My external IP address is 35.227.24.203
