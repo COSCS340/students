@@ -1,7 +1,7 @@
 # Ben Klein
 ### aka `robobenklein`
 
-Site: [35.196.184.168](http://35.196.184.168/)
+Visit my blog!: [Unhexium.net](https://unhexium.net/)
 
 I've been programming since I was ~12, and have been using Linux since I was 10.
 
